@@ -1,0 +1,26 @@
+[
+    {
+        "path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer",
+        "name": "NoAutoplayfornonVolume",
+        "value": 1,
+        "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
+        "name": "NoDriveTypeAutoRun",
+        "value": 255,
+        "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
+        "name": "NoAutorun",
+        "value": 1,
+        "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\SYSTEM\\CurrentControlSet\\Control\\Lsa",
+        "name": "LmCompatibilityLevel",
+        "value": 5,
+        "type": "DWord"
+    }
+]
