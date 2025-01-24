@@ -38,7 +38,7 @@
     {
         "path": "HKLM:\\Software\\Policies\\Microsoft\\EdgeUpdate",
         "name": "ProxyMode",
-        "value": 120,
-        "type": "Direct"
+        "value": Direct,
+        "type": "DWord"
     }
 ]
