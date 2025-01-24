@@ -23,4 +23,11 @@
         "value": 5,
         "type": "DWord"
     }
+
+    {
+        "path": "HKLM:\\Software\\Policies\\Microsoft\\EdgeUpdate",
+        "name": "UpdateDefault",
+        "value": 3,
+        "type": "DWord"
+    }
 ]
