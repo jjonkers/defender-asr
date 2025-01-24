@@ -22,8 +22,7 @@
         "name": "LmCompatibilityLevel",
         "value": 5,
         "type": "DWord"
-    }
-
+    },
     {
         "path": "HKLM:\\Software\\Policies\\Microsoft\\EdgeUpdate",
         "name": "UpdateDefault",
