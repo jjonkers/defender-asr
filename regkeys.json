@@ -28,5 +28,17 @@
         "name": "UpdateDefault",
         "value": 3,
         "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\Software\\Policies\\Microsoft\\EdgeUpdate",
+        "name": "AutoUpdateCheckPeriodMinutes",
+        "value": 120,
+        "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\Software\\Policies\\Microsoft\\EdgeUpdate",
+        "name": "ProxyMode",
+        "value": 120,
+        "type": "Direct"
     }
 ]
