@@ -1,0 +1,14 @@
+[
+    {
+        "path": "HKLM:\\SYSTEM\\CurrentControlSet\\Control\\Lsa\\Kerberos\\Parameters",
+        "name": "CloudKerberosTicketRetrievalEnabled",
+        "value": 1,
+        "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\AzureADAccount",
+        "name": "LoadCredKeyFromProfile",
+        "value": 1,
+        "type": "DWord"
+    }
+]
