@@ -1,0 +1,33 @@
+[
+    {
+        "path": "HKLM:\\SOFTWARE\\Policies\\Adobe\\Adobe Acrobat\\DC\\FeatureLockDown",
+        "name": "bAcroSuppressUpsell",
+        "value": 1,
+        "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\SOFTWARE\\policies\\Adobe\\Adobe Acrobat\\DC\\FeatureLockDown\\cIPM",
+        "name": "bDontShowMsgWhenViewingDoc",
+        "value": 0,
+        "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\SOFTWARE\\policies\\Adobe\\Adobe Acrobat\\DC\\FeatureLockDown\\cServices",
+        "name": "bShowMsgAtLaunch",
+        "value": 0,
+        "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\SOFTWARE\\policies\\Adobe\\Adobe Acrobat\\DC\\FeatureLockDown\\cServices",
+        "name": "bUpdater",
+        "value": 0,
+        "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\SOFTWARE\\policies\\Adobe\\Adobe Acrobat\\DC\\FeatureLockDown",
+        "name": "bIsSCReducedModeEnforcedEx",
+        "value": 1,
+        "type": "DWord"
+    }
+  
+]
