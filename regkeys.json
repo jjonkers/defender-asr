@@ -40,5 +40,11 @@
         "name": "ProxyMode",
         "value": "Direct",
         "type": "String"
+    },
+    {"path": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
+        "name": "fEnableTimeZoneRedirection",
+        "value": "1",
+        "type": "Dword"
     }
+    
 ]
