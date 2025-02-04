@@ -28,6 +28,13 @@
         "name": "bIsSCReducedModeEnforcedEx",
         "value": 1,
         "type": "DWord"
+    },
+    {
+        "path": "HKLM:\\SOFTWARE\\policies\\Adobe\\Adobe Acrobat\\DC\\FeatureLockDown",
+        "name": "bDisableJavaScript",
+        "value": 1,
+        "type": "DWord"
     }
+    
   
 ]
